@@ -1,6 +1,6 @@
 # StretchyHeader
 
-## A stretchy header effect made using SwiftUI which is very popular in many apps nowadays.
+## A stretchy header effect made using SwiftUI.
 
 
 ### Preview
